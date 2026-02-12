@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: Garamond Premr Pro, serif;
+}
+
+.profile-img {
+    width: 150px;
+    border-left: #f77f00 7px solid;
+    border-right: #f77f00 7px solid;
+    border-radius: 10px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #003049;
+    background: #fcbf49;
+    border-bottom: 7px solid #f77f00;
+    border-radius: 10px;
+    border-top: 7px solid #f77f00;
+}
+
+.dott-blue {
+    border: 1px dotted blue;
+}
